@@ -1,5 +1,6 @@
 lorem ipsum
+Guilherme: acabei de alterar
 
 mais alguma coisa
+outra coisa
 
-Guilherme: acabei de alterar
