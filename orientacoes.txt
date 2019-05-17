@@ -9,3 +9,4 @@ Comandos:
 	git push: enviar os arquivos para o repositorio remoto
 	git whatchanged: semelhante ao git log
 	git clone: faz uma copia de um repositorio remoto para a pasta local
+	git pull: atualiza o repositorio local com os dados do repositorio remoto
