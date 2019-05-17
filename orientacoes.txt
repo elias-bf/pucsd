@@ -6,3 +6,6 @@ Comandos:
 	git add: adiciona o arquivo para a area de Stage
 	git commit: gera uma versão dos codigos que estao na area de Stage
 	git log: mostrar o historico de commits
+	git push: enviar os arquivos para o repositorio remoto
+	git whatchanged: semelhante ao git log
+	git clone: faz uma copia de um repositorio remoto para a pasta local
