@@ -1,0 +1,8 @@
+GIT - Software para controle de versão
+Comandos:
+	git init: defini a pasta atual como pasta versionada
+	git status: mostra a situação dos arquivos na area de Stage e Work
+	git ls-files: lista os arquivos monitorados pelo git
+	git add: adiciona o arquivo para a area de Stage
+	git commit: gera uma versão dos codigos que estao na area de Stage
+	git log: mostrar o historico de commits
