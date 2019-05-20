@@ -10,3 +10,5 @@ Comandos:
 	git whatchanged: semelhante ao git log
 	git clone: faz uma copia de um repositorio remoto para a pasta local
 	git pull: atualiza o repositorio local com os dados do repositorio remoto
+	git config user.name "Elias B Ferreira"
+	git config user.email elias@pucgoias.edu.br
