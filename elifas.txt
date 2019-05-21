@@ -1,2 +1,4 @@
+Disciplina: Sistemas Distribuídos
+Código da disciplina: CMP 1190
 Aluno: Elifas Miguel Gomes Alves
 Matricula: 2014.1.0028.0438-0
