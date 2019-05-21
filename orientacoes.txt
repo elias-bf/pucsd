@@ -12,3 +12,5 @@ Comandos:
 	git pull: atualiza o repositorio local com os dados do repositorio remoto
 	git config user.name "Elias B Ferreira"
 	git config user.email elias_bf@hotmail.com
+
+Resolucao de conflitos
